@@ -1,0 +1,9 @@
+E:\Dokumenty\GitHub\Duch\Duch\bin\Debug\Duch.exe.config
+E:\Dokumenty\GitHub\Duch\Duch\bin\Debug\Duch.exe
+E:\Dokumenty\GitHub\Duch\Duch\bin\Debug\Duch.pdb
+E:\Dokumenty\GitHub\Duch\Duch\obj\Debug\Duch.csprojResolveAssemblyReference.cache
+E:\Dokumenty\GitHub\Duch\Duch\obj\Debug\Duch.Form1.resources
+E:\Dokumenty\GitHub\Duch\Duch\obj\Debug\Duch.Properties.Resources.resources
+E:\Dokumenty\GitHub\Duch\Duch\obj\Debug\Duch.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\Duch\Duch\obj\Debug\Duch.exe
+E:\Dokumenty\GitHub\Duch\Duch\obj\Debug\Duch.pdb
